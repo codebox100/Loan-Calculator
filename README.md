@@ -13,3 +13,6 @@ Steps taken to build the application:
 * Create function (methods) to clear all outputs
 
 To run the application, please download the python file named 'loancalculator.py' and run it.
+
+![Loan Calculator](https://github.com/codebox100/Loan-Calculator/blob/main/loancalculator-image.PNG)
+
